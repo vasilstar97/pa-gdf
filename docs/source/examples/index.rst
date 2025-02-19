@@ -7,4 +7,4 @@ From certain ``.ipynb`` files.
    :glob:
    :maxdepth: 1
 
-   my_example
+   example

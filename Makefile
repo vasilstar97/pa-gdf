@@ -1,4 +1,4 @@
-SOURCE_DIR = my_package
+SOURCE_DIR = pa_gdf
 TEST_DIR = tests
 
 # code formatting and linting
